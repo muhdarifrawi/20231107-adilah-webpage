@@ -48,6 +48,23 @@ footer{
     width:100vw;
 }
 
-.col-custom{
+/* .col-custom{
     width: 40vw;
+} */
+
+/* anything smaller than stated px */
+@media only screen and (max-width:576px) {
+    .custom-arrange{
+        display:flex;
+        flex-direction:row;
+    }
+}
+
+/* anything larger than stated px */
+@media only screen and (min-width:576px) {
+    .custom-arrange{
+        display:flex;
+        flex-direction:column;
+        width:40vw;
+    }
 }
