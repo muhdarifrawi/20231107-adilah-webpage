@@ -23,6 +23,14 @@ body{
     font-family: 'DM Serif Display', serif;
 }
 
+.title{
+    font-size: 23pt;
+}
+
+.dimensions{
+    font-size:14pt;
+}
+
 #landing-page{
     background-color:  #5e8fc4;
 }
