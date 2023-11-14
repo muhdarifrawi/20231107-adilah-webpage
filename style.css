@@ -64,13 +64,13 @@ footer{
     width:100vw;
 }
 
-.down-arrow{
+#down-arrow{
     position:fixed;
     bottom:50px;
     left:50vw;
 }
 
-.down-arrow-icon{
+#down-arrow-icon{
     font-size:21pt;
     width:50px;
     height:50px;
