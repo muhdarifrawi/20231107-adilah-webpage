@@ -39,6 +39,11 @@ body{
     background-repeat: no-repeat;
 }
 
+.nav-btn{
+    position:relative;
+    top:70vh;
+}
+
 #section-1{
     background-color: #b5d6d6;
     color: #768a95;
