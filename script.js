@@ -2,7 +2,7 @@ let pageArray = ["landing-page", "section-1", "section-2", "section-3", "section
 
 
 //let downArrow = document.getElementsByClassName("down-arrow-icon")[0];
-let downArrow = $("#down-arrow-icon")[0];
+let downArrow = $("#down-arrow")[0];
 
 let num = 1;
 
