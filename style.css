@@ -32,7 +32,11 @@ body{
 }
 
 #landing-page{
-    background-color:  #5e8fc4;
+    /* background-color:  #5e8fc4; */
+    background-image: url("images/art_landing.jpeg");
+    background-position: center;
+    background-size: cover;
+    background-repeat: no-repeat;
 }
 
 #section-1{
@@ -84,6 +88,10 @@ footer{
     .custom-arrange{
         display:flex;
         flex-direction:row;
+    }
+    #landing-page{
+        background-size: contain;
+        background-color:#5d8fc4;
     }
 }
 
